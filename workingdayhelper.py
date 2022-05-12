@@ -1,4 +1,3 @@
-# %%
 #   Did you generate by hand hundreds of dates
 #   of working days, from requirement register (quarterly/annually/monthly)
 #   and accounting weekends, holidays ???
@@ -78,4 +77,3 @@ for _,row in frc.iterrows():
     aev = aev + trw
 pd.DataFrame([(usk(d), e) for d,e in aev]).to_csv('resultlonglist.csv', index=False, header=False)
 # end. 
-# %%
