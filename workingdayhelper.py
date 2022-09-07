@@ -3,6 +3,7 @@
 #   and accounting weekends, holidays ???
 
 #   THEN BELOW IS FOR YOU !
+# edited after cloned to vs 7/7.
 
 '''
   _____                  _      _  _   
